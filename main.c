@@ -1,5 +1,5 @@
 /*****************************************************
-*	Author of this code Bashlykov Sergey
+*	Serge Bash
 *
 **********************DYNAMIC MENU OF ITEMS***********
 *  Use menu( char *item[],  unsigned int count_item )
